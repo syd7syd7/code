@@ -12,3 +12,5 @@ CAution
 here's the readme file....
 Bitcoin
 Ethereum
+solana
+Polygon
