@@ -14,3 +14,5 @@ Bitcoin
 Ethereum
 solana
 Polygon
+Bittensor
+
