@@ -16,3 +16,4 @@ solana
 Polygon
 Bittensor
 Jasmy
+Atom cosmos
