@@ -17,3 +17,4 @@ Polygon
 Bittensor
 Jasmy
 Atom cosmos
+Chiliz
