@@ -18,3 +18,5 @@ Bittensor
 Jasmy
 Atom cosmos
 Chiliz
+Render
+AKT
